@@ -1,4 +1,7 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
+- Change (at the end) the footer design for desktop and mobile, with the right colors.
+- Update the API to https://rebrandly.com/.
+
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 

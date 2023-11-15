@@ -1,6 +1,25 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
 - Change (at the end) the footer design for desktop and mobile, with the right colors.
 - Update the API to https://rebrandly.com/.
+/*** 
+## The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Font
+Weights: 500, 700
+
+## Icons
+
+For the social icons, you can either use the SVGs provided or a font icon library. Some suggestions for font icon libraries can be found below:
+
+- [Font Awesome](https://fontawesome.com)
+- [IcoMoon](https://icomoon.io)
+- [Ionicons](https://ionicons.com)
+***/
+
+
 
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)

@@ -21,11 +21,26 @@
     --very-dark-blue: hsl(229, 31%, 21%);
 }
 
-.nav-link {
-    color: var(--very-dark-blue)!important;
+.logo {
+    width: 60px;
+    height: 20px;
 }
-.nav-link:focus, .nav-link:hover {
-    color: var(--red)!important;
+
+@media (min-width: 768px) {
+    .logo {
+        width: 121px;
+        height: 33px;
+    }
+
+}
+
+.nav-link {
+    color: var(--very-dark-blue) !important;
+}
+
+.nav-link:focus,
+.nav-link:hover {
+    color: var(--red) !important;
 }
 
 .header__nav {
